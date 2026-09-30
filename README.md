@@ -1,3 +1,7 @@
+# Project Description
+
+The previous version of this project had text, a counter, and a button on a webpage. The button did not work in the sense that it did not increase the counter on screen when clicked. After my changes, the counter on screen is now incremented by 1 each time the button is clicked. I did this by adding two lines of code: One line that correctly incremented the counter variable, and one line that correctly sets the text content of the counter text to the counter variable passed as a string. The comment "deno-lint-ignore prefer-const" was also removed since it now serves no purpose.
+
 # CMPM 121 Section Activity starter
 
 This is the Fall 2026 S01 starter for making a small interactive page and learning the path from a local edit to a published site. The course template is public: you do **not** need to join the course GitHub organization. Create a **public** repository under your own GitHub account using the template's **Use this template → Create a new repository** button.
